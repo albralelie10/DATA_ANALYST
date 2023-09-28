@@ -1,10 +1,13 @@
+# HR-REPORT-MySQL-PowerBi
+
+![Previsualization](screenshot.png)
 
 ### DATA USED
 
-**Data** - HR Data with over 22000 rows from the year 2000-2020
+**Data** - HR Data with over 22000 rows from the year 2000-2020  
 **Data Visualization** - Power Bi
 
-### QUESTIONS
+### QUESTIONS 
 
 1. What is the gender breakdown of employees in the company?
 
